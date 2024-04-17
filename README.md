@@ -8,9 +8,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gitarthaaa&theme=darkhub" alt="Gitarthaaa" /></a> </p>
 
 - 🔭 I’M CURRENTLY WORKING ON **MED-KIT DRONE [ IOT PROGRAMMING ]**
-- 👯 I’M looking TO COLLABORATE ON **WEB DEVELOPMENT PROJECTS**
-- 🌱 I’M CURRENTLY LEARNING **DATA SCIENCE - PROMPT ENGINEERING - CYBER SECURITY -**
-
+- 👯 I’M LOOKING TO COLLABORATE ON **WEB DEVELOPMENT PROJECTS**
+- 🌱 I’M CURRENTLY LEARNING **DATA SCIENCE - PROMPT ENGINEERING - CYBER SECURITY**
 - 📫 REACH ME AT **gitarthatalukdar69@gmail.com**
 
 <div> <a href="https://www.linkedin.com/in/www.linkedin.com/in/gitartha-talukdar-a793a8301" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
