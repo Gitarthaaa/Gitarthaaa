@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gitartha Talukdar</h1>
 <h3 align="center">A Final - Year Computer Science undergraduate exploring the intersection of Artificial Intelligence, data, and software systems. I’m particularly interested in developing robust ML models, research-oriented solutions, and scalable applications that solve meaningful problems. Always curious, always building.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gitarthaaa&label=Profile%20views&color=0e75b6&style=flat" alt="gitarthaaa" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitarthaaa" alt="gitarthaaa" /></a> </p>
 
 - 🔭 I’m currently working on **Full Stack Dev + AI**
